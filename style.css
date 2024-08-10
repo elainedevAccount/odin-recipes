@@ -1,0 +1,24 @@
+div {
+    margin: 5%;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+}
+
+p{
+    text-align: center;
+    word-wrap: normal;
+    
+}
+ul{
+    align-content: center;
+}
+
+ol{
+   align-content: center;
+}
+
